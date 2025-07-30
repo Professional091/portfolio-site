@@ -7,8 +7,8 @@ body {
 }
 
 header {
-  background: #222;
-  color: rgb(114, 0, 0);
+  background: #000000;
+  color: rgb(255, 0, 0);
   padding: 1rem 2rem;
   position: sticky;
   top: 0;
@@ -34,7 +34,7 @@ nav a {
 #hero {
   text-align: center;
   padding: 4rem 2rem;
-  background: #9092ff;
+  background: #800000;
 }
 
 section {
@@ -44,6 +44,6 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #222;
-  color: rgb(139, 32, 32);
+  background: #000000;
+  color: rgb(255, 0, 0);
 }
