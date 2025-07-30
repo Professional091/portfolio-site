@@ -2,13 +2,13 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   scroll-behavior: smooth;
-  background: #f4f4f4;
-  color: #333;
+  background: #000000;
+  color: #b7b7b7;
 }
 
 header {
   background: #222;
-  color: white;
+  color: rgb(114, 0, 0);
   padding: 1rem 2rem;
   position: sticky;
   top: 0;
@@ -27,14 +27,14 @@ nav ul {
 }
 
 nav a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 #hero {
   text-align: center;
   padding: 4rem 2rem;
-  background: #e6ffe6;
+  background: #9092ff;
 }
 
 section {
@@ -45,5 +45,5 @@ footer {
   text-align: center;
   padding: 1rem;
   background: #222;
-  color: white;
+  color: rgb(139, 32, 32);
 }
